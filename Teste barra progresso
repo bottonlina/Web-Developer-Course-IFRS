@@ -1,0 +1,11 @@
+<html>
+<head><title>Testaudio</title></head>
+<body>
+<header><h1>Barra de progresso em teste</h1></header>
+<nav></nav>
+               <section>
+               	Carregando..<br><section><progress></progress>
+               </section>
+<footer></footer>
+</body>
+</html>
