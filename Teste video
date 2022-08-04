@@ -1,0 +1,11 @@
+<html>
+<head><title>Testaudio</title></head>
+<body>
+<header><h1>Video aleatório para teste</h1></header>
+<nav></nav>
+<section><video src="video.mp4"
+	controls></video>
+</section>
+<footer></footer>
+</body>
+</html>
