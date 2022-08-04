@@ -1,0 +1,16 @@
+<html>
+<head><title>Favoritefood</title></head>
+<body>
+	<header><br>
+		<br>
+		<hr>
+		<h2>What's your favorite food?
+		</h2></header>
+		<nav></nav>
+		<section><b><p>It's khachapuri! A georgian food.</p>
+		<p><i>It's gorgeous!!</p>
+			<img src="khachapuri.jpg" height="300px" width="400px">
+		</section>
+	
+</body>
+</html>
