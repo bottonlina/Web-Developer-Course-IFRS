@@ -1,0 +1,11 @@
+<html>
+<head><title>Testaudio</title></head>
+<body>
+<header><h1>Voce disse pipoca?</h1></header>
+<nav></nav>
+<section><audio src="music.mp3"
+	controls></audio>
+</section>
+<footer></footer>
+</body>
+</html>
