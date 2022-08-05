@@ -1,0 +1,16 @@
+<table>
+<tr>
+	<td><h1>Alunos</h1></td>
+	<td><h1>Nota</h1></td>
+	</tr>
+<tr>
+	<td><h3>Maiara</h3></td><hr>
+	<td>8.5</td></hr>
+	<td><h3>Julia</h3></td>
+	<td>7.5</td>
+	<td><h3>Alana</h3></td>
+	<td>6.5</td>
+	<td><h3>Joana</h3></td>
+	<td>9.0</td>
+</tr>
+</table>
