@@ -1,0 +1,34 @@
+<html>
+<table>
+<thead>
+	<tr>
+		<th>Book</th>
+		<th>Author</th>
+		<th>Price</th>
+	</tr>
+</thead>
+</tbody>
+    <tr>
+		<td><b>Dark Matter</b></td>
+		<td>Blake Crouch</td>
+		<td>R$: 35,00</td>
+    </tr>
+    <tr>
+		<td><b>Box The Lord of the rings</b></td>
+		<td>J. R. R. Tolkien</td>
+		<td>R$: 125,00</td>
+    </tr>
+    <tr>
+		<td><b>Crime and punishment</b></td>
+		<td>Fiódor Dostoiévski</td>
+		<td>R$: 45,00</td>
+    </tr>
+    <tfooter>
+	<tr>
+		<td>Amount</td>
+		<td>R$: 205,00</td>
+	</tr>
+</tfooter>
+</tbody>
+</table>
+</html>
