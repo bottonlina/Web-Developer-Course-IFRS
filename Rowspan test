@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Imagem</title>
+	</head>
+	<body>
+	<header><h1>Curso de html
+	</h1></header>
+	<nav></nav>
+	<section>
+	<table border="1">
+		<tr>
+			<td>Coluna 1, Linha1</td>
+			<td rowspan="2">Coluna 2</td>
+		</tr>
+		<tr>
+			<td>Coluna 1, Linha2</td>
+		</tr>
+		<tr>
+			<td colspan="2">Linha 3</td>
+		</tr>
+	</table>
+	</section>
+	<footer></footer>
+	</header>	
+	</body>
+</html>
