@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Weather</title>
+    </head>
+    <body>
+        <header><h1>Daily Weather</h1></header>
+        <nav></nav>
+        <section>
+            <table border='2'>
+                <tr>
+                    <td width="60%"><b>Cities</b></td>
+                    <td>Temperature</td>
+                </tr>
+                <tr>
+                    <td><a href="https://weather.com/pt-BR/clima/hoje/l/977349555f7699af22739617deeae996c9f5ec6e33d26e5044cbef8efb759af5">Oslo</a></td>
+                    <td>12°</td>
+                </tr>
+                <tr>
+                    <td><a href="https://weather.com/pt-BR/clima/hoje/l/5ca23443513a0fdc1d37ae2ffaf5586162c6fe592a66acc9320a0d0536be1bb9">Berlin</a></td>
+                    <td>15°</td>
+                </tr>
+                <tr>
+                    <td><a href="https://weather.com/pt-BR/clima/hoje/l/2cb380235e37b33ca8fa7398905df2f7bc3a4fca1655cec97fc0c29b1891bdf8">Berlin</a></td>
+                    <td>13°</td>
+                </tr>
+                </table>
+        </section>
+        <footer></footer>
+    </body>
+</html>
