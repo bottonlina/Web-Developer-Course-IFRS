@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Contatostelefonicos</title>
+    </head>
+    <body>
+        <header><h1>Contatos telefonicos</h1></header>
+        <nav></nav>
+        <section>
+            <table border='1'>
+                <tr>
+                    <td><b>Nome</b></td>
+                    <td>Telefone</td>
+                </tr>
+                <tr>
+                    <td>Joana</td>
+                    <td>02 061 xxxx xxxx</td>
+                </tr>
+                <tr>
+                    <td>Rosane</td>
+                    <td>08 091 xxxx xxxx</td>
+                </tr>
+                <tr>
+                    <td>Marcelo</td>
+                    <td>02 071 xxxx xxxx</td>
+                </tr>
+                </table>
+        </section>
+        <footer></footer>
+    </body>
+</html>
