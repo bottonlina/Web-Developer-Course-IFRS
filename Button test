@@ -1,0 +1,17 @@
+<html>
+<head><title>Button test</title></head>
+<body>
+	<header><h1>
+		UX Company</h1>
+	</header>
+	<hr>
+	<nav></nav>
+	<section>
+		<form method="post" action="#"><p><b>
+			Login: <input type="text" name="Login"></p><p>
+			Password: <input type="password" name="Password"></b></p>
+		</form>
+	</section>
+	<footer></footer>
+</body>
+</html>
